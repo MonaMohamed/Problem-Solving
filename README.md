@@ -1,66 +1,15 @@
-# Problem-Solving
-problem solving with  advanced algorithms and data structures using c++
-Content:
-- Search Algorithms: Complete Search (Brute Force)
-- Tips and Tricks: Substring Palindromes
-- Tips and Tricks: Cumulative Sum
-- Sorting Algorithms: Basic Sorting Algorithms
-- Search Algorithms: Binary Search (binary_search(),
-upper_bound() and lower_bound())
-- Search Algorithms: Ternary Search
-- Basic Data Structures: Structs and Classes
-- Sorting Algorithms: Heap Sort, Quick Sort, Built-in Sort Function from <algorithm> and how to make Compare Functions (CMP).
-- Basic Data Structures: Maps and Hashmaps
-- Basic Data Structures: Sets and Multisets
-- Basic Data Structures: Stacks, Queues and Deque
-- Memory and Time Complexity Calculation
-- Simulation
-- Tips and Tricks: Flags, Multi-flags, visited arrays….
-- Tips and Tricks: String Parsing
-- Greedy Algorithms
-- Math and Number Theory: Modular Arithmetic
-- Math and Number Theory: Check Prime
-- Math and Number Theory: Prime Factorization
-- Math and Number Theory: Sieve of Eratosthenes
-- Math and Number Theory: Base Conversion
-- Math and Number Theory: GCD and LCM
-- Tips and Tricks: Power Log
-- Tips and Tricks: Pigeonhole Principle
-- Combinatorics: Understanding Combinations and Permutations
-- Tips and Tricks: next_permutation()
-- Search Algorithms: Meet in the Middle
-- Recursion: Concept
-- Recursion: Applications, Search, Divide and Conquer, Flood Fill… etc.
-- Dynamic Programming: Top-Down and Bottom-Up approaches
-- Dynamic Programming: Well-known Problems
-- Dynamic Programming: Advanced Problems + Path Reconstruction
-- Game Theory: Optimal Playing Problems (DP)
-- Graph Theory: Graph Definition and Types.
-- Graph Theory: Graph Representation and Storage
-- Graph Theory: DFS and BFS on graph.
-- Graph Theory: Flood Fill on graph.
-- Shortest Path: Floyd-Warshall Algorithm
-- Shortest Path: Dijkstra Algorithm
-- Shortest Path: Bellman-Ford Algorithm
-- Shortest Path: Path Reconstruction
-- Graph Theory: Disjoint Sets
-- Graph Theory: Minimum Spanning Tree (Kruskal and Prim)
-- Tips and Tricks: Diameter of a Tree
-- Sorting Algorithms: Topological Sort
-- Tips and Tricks: Maximum Subarray Problem (Kadane’s Algorithm)
-- Tips and Tricks: Nearest Smaller Element Algorithm
-- Tips and Tricks: Inclusion-Exclusion Principle
-- Tips and Tricks: 2D Cumulative Sum
-- Advanced Graph Theory: Euler Tours and Euler Circuits
-- Advanced Graph Theory: Floyd-Warshall Algorithm Applications
-- Advanced Graph Theory: Dijkstra's Algorithm Applications
-- Advanced Graph Theory: Bellman-Ford Algorithm Applications
-- Advanced Graph Theory: System of Difference Constraints
-- Advanced Data Structures: Trie Tree
-- Advanced Data Structures: Segment Tree
-- Advanced Data Structures: Binary Indexed Tree
-- Tips and Tricks: Ranking and Graph Ranking
-- Advanced Graph Theory: Strongly Connected Components (Tarjan’s Algorithm and Kosaraju’s Algorithm)
-- Advanced Graph Theory: Articulation Points, Bridges and Bi-Connected Components
-- Advanced Graph Theory: 2-Sat
+# LightOJ Solutions
 
+[LightOJ](https://lightoj.com/) Solutions with Hints in C++.
+
+## Guidelines
+
+## HINTS
+
+Hints to selected problems of LightOJ. Feel free to add or update the hints by sending a pull a request. If the [hints](HINTS.md) are not present for a problem, refer to the LightOJ forum. 
+
+#### 1 - Binary Simulation(https://lightoj.com/problem/binary-simulation)
+Given a binary number, we are about to do some operations on the number. Two types of operations can be here:
+I i j, inverts all the bits from i to j (inclusive).
+Q i return whether the ith bit is 0 or 1.
+The MSB (most significant bit) is the first bit (i.e. i=1). The binary number can contain leading zeroes.
