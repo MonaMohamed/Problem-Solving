@@ -1,4 +1,4 @@
-# Different Problem Solving Solutions with Hints in C++.
+# Different Problem Solutions with Hints in C++.
 1- [LightOJ](https://lightoj.com/) <br />
 2- Cracking the coding interview book
 
