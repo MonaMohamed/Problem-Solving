@@ -13,6 +13,9 @@ Given a binary number, we are about to do some operations on the number. Two typ
 I i j, inverts all the bits from i to j (inclusive).<br/>
 Q i return whether the ith bit is 0 or 1.<br/>
 The MSB (most significant bit) is the first bit (i.e. i=1). The binary number can contain leading zeroes.
-
 #### 2 - Is Unique 
 Implementing an algorithm to determine if a string has all unique characters.
+#### 3 - Check Permutation 
+Given two strings and check if one is a permutation of the other.
+
+
