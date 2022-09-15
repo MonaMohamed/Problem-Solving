@@ -1,6 +1,7 @@
-# LightOJ Solutions
+# Different Problem Solving Solutions
 
 [LightOJ](https://lightoj.com/) Solutions with Hints in C++.
+Cracking the coding interview book
 
 ## Guidelines
 
