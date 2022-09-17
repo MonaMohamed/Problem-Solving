@@ -22,7 +22,7 @@ Given a string, write a function to check if it is a permutation of a palindrome
 A palindrome is a word or phrase that is the same forwards and backwards.<br/>
 A permutation is a rearrangement of letters.<br/>
 The palindrome does not need to be limited to just dictionary words.<br/>
-You can ignore casing and non-letter characters.
+You can ignore casing and non-letter characters.<br/>
 Input: Tact Coa <br/>
 Output: True (permutations: “taco cat”. “atco cta”. etc.)
 
