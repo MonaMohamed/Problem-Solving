@@ -17,5 +17,11 @@ The MSB (most significant bit) is the first bit (i.e. i=1). The binary number ca
 Implementing an algorithm to determine if a string has all unique characters.
 #### 3 - Check Permutation 
 Given two strings and check if one is a permutation of the other.
+#### 4 - Palindrome Permutation 
+Given a string, write a function to check if it is a permutation of a palindrome.<br/>
+A palindrome is a word or phrase that is the same forwards and backwards.<br/>
+A permutation is a rearrangement of letters.<br/>
+The palindrome does not need to be limited to just dictionary words.<br/>
+You can ignore casing and non-letter characters.
 
 
