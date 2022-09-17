@@ -25,4 +25,8 @@ The palindrome does not need to be limited to just dictionary words.<br/>
 You can ignore casing and non-letter characters.<br/>
 Input: Tact Coa <br/>
 Output: True (permutations: “taco cat”. “atco cta”. etc.)
+#### 5 - One Away
+Given two strings, return true if they are one edit away from each other,else return false.<br/>
+An edit is insert/replace/delete a character. <br/>
+Ex. {"abc","ab"}->true, {"abc","adc"}->true, {"abc","cab"}->false 
 
