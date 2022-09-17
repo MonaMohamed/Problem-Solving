@@ -2,10 +2,7 @@
 1- [LightOJ](https://lightoj.com/) <br />
 2- Cracking the coding interview book
 
-## Guidelines
-
 ## HINTS
-
 Hints to selected problems of LightOJ. Feel free to add or update the hints by sending a pull a request. If the [hints](HINTS.md) are not present for a problem, refer to the LightOJ forum. 
 
 #### 1 - Binary Simulation(https://lightoj.com/problem/binary-simulation)
