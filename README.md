@@ -30,5 +30,5 @@ Ex. {"abc","ab"}->true, {"abc","adc"}->true, {"abc","cab"}->false
 #### 6 - String Compression
 Implement a method to perform basic string compression using the counts of repeated characters. <br/>
 For example, the string aabcccccaaa would become a2b1c5a3.<br/>
-If the compressed string would not become smaller than the original string, your method should return the original string.<br/>
+If the compressed string would not become smaller than the original string, your method should return the original string.
 You can assume the string has only uppercase and lowercase letters (a-z).
