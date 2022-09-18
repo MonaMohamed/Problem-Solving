@@ -3,7 +3,8 @@
 2- Cracking the coding interview book
 
 ## HINTS
-Hints to selected problems of LightOJ. Feel free to add or update the hints by sending a pull a request. If the [hints](HINTS.md) are not present for a problem, refer to the LightOJ forum. 
+Hints to selected problems of LightOJ &  Cracking the coding interview book.<br/>
+Feel free to add or update the hints by sending a pull a request.
 
 #### 1 - Binary Simulation(https://lightoj.com/problem/binary-simulation)
 Given a binary number, we are about to do some operations on the number. Two types of operations can be here:<br/>
@@ -26,4 +27,8 @@ Output: True (permutations: “taco cat”. “atco cta”. etc.)
 Given two strings, return true if they are one edit away from each other,else return false.<br/>
 An edit is insert/replace/delete a character. <br/>
 Ex. {"abc","ab"}->true, {"abc","adc"}->true, {"abc","cab"}->false 
-
+#### 6 - String Compression
+Implement a method to perform basic string compression using the counts of repeated characters. <br/>
+For example, the string aabcccccaaa would become a2b1c5a3.<br/>
+If the compressed string would not become smaller than the original string, your method should return the original string.<br/>
+You can assume the string has only uppercase and lowercase letters (a-z).
